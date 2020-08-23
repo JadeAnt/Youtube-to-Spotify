@@ -1,1 +1,0 @@
-spotify_user_id = "jantoine234"
